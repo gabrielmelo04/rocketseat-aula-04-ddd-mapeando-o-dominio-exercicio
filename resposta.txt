@@ -1,0 +1,19 @@
+Entidades:
+
+Produto
+Estoque
+Vendas
+Compra
+Pedidos
+Fornecedores
+
+Caso de usos:
+
+Rastrear produtos individualmente
+Definir uma quantidade mínimas de estoque
+Receber um alerta por e-mail quando o estoque estiver chegando próximo ao fim
+Receber um alerta pelo sistema de gerenciamento de estoque quando o produto estiver chegando próximo ao fim
+Visualização do histórico de vendas
+Visualização do histórico do estoque
+Criar ordens de compra automaticamente
+Gerenciar ordens de compra automaticamente
